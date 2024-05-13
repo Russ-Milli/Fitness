@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FitnessApp" parent="android:Theme.Material.Light.NoActionBar" />
+    
+    
+    <style name="Theme.FitnessApp." parent="Theme.SplashScreen">
+
+    </style>
+
+    
+    <style name="Theme.App.Splashscreen" parent="Theme.SplashScreen">
+<item name="windowSplashScreenBackground">@color/black</item>
+<item name="windowSplashScreenAnimatedIcon">@drawable/fit</item>
+<item name="postSplashScreenTheme">@style/Theme.SplashScreen</item>
+
+
+
+        
+    </style>
+
+
+
+
+
+
+
+</resources>
